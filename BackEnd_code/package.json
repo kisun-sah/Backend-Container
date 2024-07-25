@@ -1,0 +1,19 @@
+{
+  "name": "shoping",
+  "version": "1.0.0",
+  "description": "This is a online shoping application for my shoping app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "shoping"
+  ],
+  "author": "kartik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "slugify": "^1.6.6"
+  }
+}
