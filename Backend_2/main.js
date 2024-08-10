@@ -6,5 +6,6 @@
   import obj from './mymodule.js';
   console.log(obj);
 
-// const a = require("./mymodule2.js")
+
+//const a = require("./mymodule2.js")
 // console.log(a);
